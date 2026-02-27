@@ -1,0 +1,12 @@
+[build-system]
+requires=["setuptools>=61.0"]
+build-backend="setuptools.build_meta"
+
+[project]
+name="last-folder-helper"
+version="0.1.0"
+description="Utility for storing last used folder"
+authors=[{name="Your Name"}]
+readme=""
+requires-python=">=3.8"
+dependencies=[]
